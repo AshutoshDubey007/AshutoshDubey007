@@ -14,9 +14,9 @@
 ### 👨‍💻 Code is my playground
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" width="500"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="450"/>
 </p>
----
+
 
 ### 🌐 Connect with me:
 
