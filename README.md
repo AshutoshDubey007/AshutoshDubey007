@@ -14,7 +14,7 @@
 ### 👨‍💻 Code is my playground
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="450"/>
+  <img src="https://media.giphy.com/media/3o7TKtd1cd4dW6tHDi/giphy.gif" width="500" alt="Coding Samurai"/>
 </p>
 
 
