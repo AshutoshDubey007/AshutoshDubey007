@@ -19,7 +19,7 @@
 
 
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-dubey-372950264/" target="_blank">
@@ -31,11 +31,10 @@
   <a href="https://www.instagram.com/_ashutosh_0.1.0_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.gg/rBAnw42SqQ" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </p>
-
 
 ---
 
