@@ -1,11 +1,11 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BB1F7&width=435&lines=Hi+I'm+Vedant+Pisal!;Full-stack+Developer+%7C+AI+Enthusiast;Footballer+%7C+Code+Lover+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BB1F7&width=435&lines=Hi+I'm+Ashutosh Dubey;Full-stack+Developer+%7C+AI+Enthusiast;Footballer+%7C+Code+Lover+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 Hello there! I'm Vedant Pisal
+### 👋 Hello there! I'm Ashutosh Dubey
 
 🔭 I’m currently working on **ONLINE MEET AI BOT AUTOMATION**  
 📫 Reach me at: **ashutoshkdubey007@gmail.com**  
@@ -15,10 +15,9 @@
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/vedant-pisal-deshmukh)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/_.vedant20)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/vivas_vigor_98)  
-[![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?logo=kofi&logoColor=white&style=flat-square)](https://ko-fi.com/vedant2081977pisal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ashutosh-dubey-372950264/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/_ashutosh_0.1.0_/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)]([https://twitter.com/vivas_vigor_98](https://x.com/Ashutos20516672))  
 
 ---
 
@@ -56,7 +55,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vedant20082004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshutoshDubey007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -64,16 +63,16 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant20082004&theme=tokyonight" alt="Vedant's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant20082004&theme=tokyonight" alt="Ashutosh's GitHub streak" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vedant20082004&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant20082004&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDubey007&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant20082004&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshutoshDubey007&theme=tokyo-night" />
 </p>
