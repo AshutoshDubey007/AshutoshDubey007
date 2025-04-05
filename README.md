@@ -28,8 +28,11 @@
   <a href="https://x.com/Ashutos20516672" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/_ashutosh_0.1.0_" target="_blank">
+  <a href="https://www.instagram.com/_ashutosh_0.1.0_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </p>
 
