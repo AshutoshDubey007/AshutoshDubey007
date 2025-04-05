@@ -1,16 +1,21 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BB1F7&width=435&lines=Hi+I'm+Ashutosh Dubey;Full-stack+Developer+%7C+AI+Enthusiast;Footballer+%7C+Code+Lover+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BB1F7&width=435&lines=Hi+I'm+Ashutosh Dubey;Full-stack+Developer+%7C+AI+Enthusiast;Footballer+%7C+Gamer+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 Hello there! I'm Ashutosh Dubey
 
-🔭 I’m currently working on **ONLINE MEET AI BOT AUTOMATION**  
+🔭 I’m currently working on **AI CHATBOT DEVELOPMENT**  
 📫 Reach me at: **ashutoshkdubey007@gmail.com**  
-⚡ *"When I'm not tackling bugs in code, I'm tackling opponents on the football field. State-level footballer & full-stack developer — balancing both games!"* ⚽💻
+⚡"Balancing code and cleats — I'm a full-stack developer and a state-level footballer who plays to win, on and off the field." 🧠⚽💻
 
+### 👨‍💻 Code is my playground
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" width="500"/>
+</p>
 ---
 
 ### 🌐 Connect with me:
