@@ -80,12 +80,12 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant20082004&theme=tokyonight" alt="Ashutosh's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshutoshDubey007&theme=tokyonight" alt="Ashutosh's GitHub streak" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant20082004&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshutoshDubey007&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDubey007&layout=compact&theme=tokyonight" height="165" />
 </p>
 
