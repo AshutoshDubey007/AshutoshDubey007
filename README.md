@@ -1,6 +1,6 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BB1F7&width=435&lines=Hi+I'm+Ashutosh Dubey;Full-stack+Developer+%7C+AI+Enthusiast;Footballer+%7C+Gamer+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Hii+I+Am+Ashutosh Dubey!;I+Am+A +Developer!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ---
