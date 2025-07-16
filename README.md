@@ -8,7 +8,7 @@
 
 ### 👋 Hello there! I'm Ashutosh Dubey
 
-🔭 I’m currently working on **AI CHATBOT DEVELOPMENT**  
+🔭 I’m currently working on **Website UI Development**  
 📫 Reach me at: **ashutoshkdubey007@gmail.com**  
 ⚡"Balancing code and cleats — I'm a full-stack developer and a state-level footballer who plays to win, on and off the field." 🧠⚽💻
 
